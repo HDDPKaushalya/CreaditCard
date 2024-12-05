@@ -1,0 +1,14 @@
+In here all the architecture is 3 tire I ta contain frontend/ Backend and the Database.
+And it contain to connect to use db and the Backend 
+
+-------UI Layer------ CSS probably bootstrap 
+         |
+         |.   calling the api using Controler
+         ↓.             ASP.NET MVC
+         ↓.         
+_______API Layer______ Validation API /. Database CRUD operations. using ADO.NET
+         |
+         |
+         |
+Database SQL Server 
+
